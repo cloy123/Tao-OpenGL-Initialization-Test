@@ -43,5 +43,11 @@ namespace Tao_OpenGL_Initialization_Test
             var lab5 = new Lab5();
             lab5.ShowDialog();
         }
+
+        private void btnLab6_Click(object sender, EventArgs e)
+        {
+            var lab6 = new Lab6();
+            lab6.ShowDialog();
+        }
     }
 }
